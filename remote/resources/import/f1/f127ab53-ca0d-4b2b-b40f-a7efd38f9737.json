@@ -1,1 +1,0 @@
-[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"workerBrain","{\r\n  \"name\": \"workerBrain\",\r\n  \"path\": \"F:/Cocos/CocosWorld/assets/resources/configAi/workerBrain.txt\",\r\n  \"TreeNodes\": [\r\n    {\r\n      \"_sid\": 1,\r\n      \"_x\": 937,\r\n      \"_y\": 100,\r\n      \"nodeType\": \"Entry\"\r\n    }\r\n  ]\r\n}"]],0,0,[],[],[]]
